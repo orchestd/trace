@@ -1,8 +1,8 @@
 package bjaeger
 
 import (
-	"bitbucket.org/HeilaSystems/dependencybundler/interfaces/log"
 	"context"
+	"github.com/orchestd/dependencybundler/interfaces/log"
 
 	"github.com/uber/jaeger-client-go/config"
 )

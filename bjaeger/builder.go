@@ -1,8 +1,8 @@
 package bjaeger
 
 import (
-	"bitbucket.org/HeilaSystems/trace"
 	"container/list"
+	"github.com/orchestd/trace"
 
 	"github.com/uber/jaeger-client-go/config"
 )
