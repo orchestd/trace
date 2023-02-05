@@ -12,5 +12,5 @@ require (
 	github.com/uber/jaeger-lib v2.2.0+incompatible // indirect
 	go.uber.org/fx v1.13.1
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
-	github.com/orchestd/dependencybundler v0.40.3
+	github.com/orchestd/dependencybundler v0.40.4
 )
