@@ -2,6 +2,7 @@ package bjaeger
 
 import (
 	"context"
+	"github.com/opentracing/opentracing-go"
 	"github.com/orchestd/trace"
 	"io"
 	"sync"
